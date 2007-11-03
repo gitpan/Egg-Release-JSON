@@ -1,6 +1,6 @@
 ---
 name: Egg-Release-JSON
-version: 0.01
+version: 0.02
 author:
   - 'Masatoshi Mizuno E<lt>lusheE<64>cpan.orgE<gt>'
 abstract: JSON module kit for Egg.
@@ -23,7 +23,7 @@ provides:
     file: lib/Egg/Plugin/JSON.pm
   Egg::Release::JSON:
     file: lib/Egg/Release/JSON.pm
-    version: 0.01
+    version: 0.02
   Egg::View::JSON:
     file: lib/Egg/View/JSON.pm
     version: 0.01

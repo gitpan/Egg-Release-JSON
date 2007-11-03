@@ -2,12 +2,12 @@ package Egg::Release::JSON;
 #
 # Masatoshi Mizuno E<lt>lusheE<64>cpan.orgE<gt>
 #
-# $Id: JSON.pm 189 2007-08-08 01:43:47Z lushe $
+# $Id: JSON.pm 210 2007-11-03 14:38:29Z lushe $
 #
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head1 NAME
 
